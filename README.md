@@ -1,4 +1,3 @@
-# Drowsiness-Detection-using-OpenCv-Python
 This project is used to detect human's drowsiness for any given person. Here we check how long a person's eyes have been closed for. If the eyes have been closed for a long period i.e. beyond a certain threshold value, the program will alert the user by playing an alarm sound.
 
 The program contains following 03 files :-
@@ -50,5 +49,3 @@ Run script using:
     python3 drowsiness_detect.py
 
 The algorithm for Eye Aspect Ratio was taken from pyimagesearch.com blog, by Adrian RoseBrock.
-
-Thank You !
